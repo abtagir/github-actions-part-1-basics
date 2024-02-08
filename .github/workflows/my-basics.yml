@@ -19,7 +19,7 @@ jobs:
   my_deploy: 
     runs-on: ubuntu-latest
      
-     steps:
+    steps:
     - name: Print Hello Message
       run : echo "Hello World from Deploy job"
     
